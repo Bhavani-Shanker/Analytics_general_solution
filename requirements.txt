@@ -13,4 +13,4 @@ flax
 protobuf==3.20
 transformers
 summa==1.2.0
-from summa import summarizer
+
