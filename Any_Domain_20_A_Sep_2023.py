@@ -58,7 +58,7 @@ df = pd.DataFrame()
 
 uploaded_file = ""
 
-            
+st.markdown("Please contact Bhavani Shankar @ bhavani_5364@hotmail.com for any customization")           
 def perform_nlp():
     # Perform time series task
     st.title("Performing NLP task...")
